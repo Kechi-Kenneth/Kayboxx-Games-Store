@@ -1,0 +1,36 @@
+.header-cap {
+  background: linear-gradient(to bottom,  rgba(115, 103, 255, 1),  rgba(5, 240, 255, 1), rgba(150, 60, 255, 1), rgba(0, 0, 0, 0.25), rgba(56, 176, 184, 1));
+  height: 20px;
+  width: 1260px;
+  border-top: 1px solid white;
+  display: flex;
+  top: 0;
+  position: fixed;
+  z-index: 100;
+  margin-left: -7px;
+  flex-direction: row;
+}
+
+.us-english-icon-space  {
+display: flex;
+align-items: flex-end;
+justify-content: flex-end;
+flex-direction: row;
+column-gap: 0px;
+row-gap: 0px;
+}
+
+  
+.us-english-grid-one {
+  height: 20px;
+  margin-bottom: 5px;
+  margin-left: 1180px;
+  border-radius: 10px;
+  
+}
+
+.us-english-icon {
+  height: 22px;
+  width: 35px;
+}
+
